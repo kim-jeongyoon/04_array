@@ -8,10 +8,9 @@ public class ArrayExample1 {
 	 * 같은 자료형의 변수를 하나의 묶음으로 다루는 것. (자료구조)
 	 * 묶여진 변수들은 하나의 배열명으로 불려짐
 	 * (index는 0부터 시작하는 정수)
-	 * 
-	 * 
 	 */
 
+	//(복습O)
 	public void ex1() {
 		//변수 vs 배열
 		
@@ -64,6 +63,7 @@ public class ArrayExample1 {
 	
 	}
 
+	//(복습O)
 	public void ex2() {
 		//배열 선언 및 할당
 		int[] arr = new int[4];
@@ -87,6 +87,7 @@ public class ArrayExample1 {
 		}
 	}
 
+	//(복습O)
 	public void ex3() {
 		// 5명의 키(cm)를 입력 받고 평균 구하기
 		
